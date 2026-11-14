@@ -31,7 +31,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 
 | Equipo | Propuesta (anteproyecto) | Amenaza | Repo | Demo | Video | Notas |
 |---|---|:-:|:-:|:-:|:-:|---|
-| **Stellar Experience** | HORIZONTE: PWA para dirigir una base en la Luna/Marte, rebobinar el tiempo, guía Nebula, rúbrica 0–8, piloto en colegios | — | [horizonte](https://github.com/andretys/horizonte) | | | Nosotros |
+| **Stellar Experience** | HORIZONTE: PWA para dirigir una base en la Luna/Marte, rebobinar el tiempo, guía Nebula, rúbrica 0–8, piloto en colegios | — | [horizonte](https://github.com/andretys/horizonte) | | | Nosotros · base jugable con 3 misiones (14/11) |
 | SQubic | VR (Meta Quest + PC): comandante de asentamiento en Marte, controles hápticos | 🟠 | | | | Muy vistoso pero arriesgado en 48 h |
 | Systems & Stars | Roblox: viaje completo de astronauta (despegue, estación, suministros, retorno) | 🟢 | | | | Sin datos NASA concretos ni alcance definido |
 | Starts and Sistems | Sin anteproyecto | 🟢 | | | | Probable duplicado de Systems & Stars |
@@ -90,8 +90,19 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 2. Buscar repos públicos en GitHub por nombre de equipo o proyecto (p. ej. "HORIZONTE", "Orbit Deck", "Pacha Takiy", "MARS BLUESOFT").
 3. Rellenar las columnas Repo / Demo / Video con el enlace y anotar la fecha en *Bitácora*.
 
+## Repos públicos detectados
+
+| Fecha | Repo | Relación | Notas |
+|---|---|---|---|
+| 2026-11-14 | [ferrosasfp/field-shift](https://github.com/ferrosasfp/field-shift) | Field Shift · Moquegua | NASA POWER + rotación de cultivos + seguro paramétrico. Creado el 12/11, antes de la hackatón. Equipo sin identificar |
+| 2026-11-14 | [chris-nofi/nofi-space](https://github.com/chris-nofi/nofi-space) | "Agua Clara Moquegua" (ECOSTRESS) | No coincide con ningún equipo de la lista de 40. Revisar |
+
+**Nuestro reto a nivel mundial:** 85 repos públicos con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
+Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trainer), [Little Orbit](https://github.com/Yoriichi-0u0/little-orbit), [ASTROQUEST](https://github.com/divyamd809-ui/ASTROQUEST.), [AstroVR](https://github.com/metinmehdi/AstroVR).
+
 ## Bitácora
 
 | Fecha | Cambio |
 |---|---|
 | 2026-11-14 | Mapa inicial: 40 equipos, 21 anteproyectos revisados |
+| 2026-11-14 | Primera búsqueda de repos: 2 de Moquegua (Field Shift); ningún rival directo con repo público |
