@@ -94,6 +94,10 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 
 | Fecha | Repo | Relación | Notas |
 |---|---|---|---|
+| 2026-11-14 | [SaidGMP/chacratest](https://github.com/SaidGMP/chacratest) | ChacraTest · Moquegua | Estrés de rotación de cultivos en la sierra de Moquegua con NASA POWER (otro reto, agricultura). Solo README + data.json. Equipo sin identificar |
+| 2026-11-14 | [YYN192/impossible-solution](https://github.com/YYN192/impossible-solution) | Nuestro reto · global (SoftUniors, Sofía) | Base en Marte 3 soles; "cadena de dominó" causa→efecto al final; insignias **EN VIVO / DATO GUARDADO** en datos NASA; modo `?demo=1` reproducible para el video; caminar hasta la consola (WASD); bilingüe. Demo en Pages |
+| 2026-11-14 | [breno-concrete/mars-outpost](https://github.com/breno-concrete/mars-outpost) | Nuestro reto · global | Marte, 4 años marcianos con estaciones reales; asignar trabajos a la tripulación; **minijuego de reparación**; base isométrica en React Three Fiber |
+| 2026-11-14 | [Amal-Thomas-cmd/Astrion](https://github.com/Amal-Thomas-cmd/Astrion) | Nuestro reto · global | Hecho en Minecraft Java: 14 misiones lunares encadenadas |
 | 2026-11-14 | [ferrosasfp/field-shift](https://github.com/ferrosasfp/field-shift) | Field Shift · Moquegua | NASA POWER + rotación de cultivos + seguro paramétrico. Creado el 12/11, antes de la hackatón. Equipo sin identificar |
 | 2026-11-14 | [chris-nofi/nofi-space](https://github.com/chris-nofi/nofi-space) | "Agua Clara Moquegua" (ECOSTRESS) | No coincide con ningún equipo de la lista de 40. Revisar |
 | 2026-11-14 | [ErastusArthur/Gravity-Benders](https://github.com/ErastusArthur/Gravity-Benders) | Nuestro reto · global | Mapa donde envías rover/tripulación a explorar, vista interior de la base, modo Cadete vs. Especialista (unidades reales), tormenta que afecta a quien está afuera |
@@ -102,7 +106,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | 2026-11-14 | [germanoafb/Base_Mars](https://github.com/germanoafb/Base_Mars) | Nuestro reto · global | Base en Marte, repartir energía con sliders, tormentas solares reales; misma arquitectura que la nuestra (reglas separadas de la pantalla) |
 | 2026-11-14 | [ashwin7587-art/SELENOVIX](https://github.com/ashwin7587-art/SELENOVIX) | Nuestro reto · global | Simulador del polo sur lunar (web + notebook de modelo); README vacío |
 
-**Nuestro reto a nivel mundial:** 123 repos públicos al 14/11 15:38 (105 a las 12:36, 85 a las 09:00) con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
+**Nuestro reto a nivel mundial:** 142 repos públicos al 14/11 18:38 (123 a las 15:38, 105 a las 12:36, 85 a las 09:00) con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
 Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trainer), [Little Orbit](https://github.com/Yoriichi-0u0/little-orbit), [ASTROQUEST](https://github.com/divyamd809-ui/ASTROQUEST.), [AstroVR](https://github.com/metinmehdi/AstroVR).
 
 ## Bitácora
@@ -111,5 +115,6 @@ Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trai
 |---|---|
 | 2026-11-14 | Mapa inicial: 40 equipos, 21 anteproyectos revisados |
 | 2026-11-14 | Primera búsqueda de repos: 2 de Moquegua (Field Shift); ningún rival directo con repo público |
+| 2026-11-14 18:38 | Revisión automática: nuevo repo de Moquegua (ChacraTest, agricultura, no es nuestro reto); rivales directos sin repo público; 142 repos del reto; ideas: dominó causa→efecto, demo reproducible, minijuego de reparación |
 | 2026-11-14 15:38 | Revisión automática: sin rivales nuevos en Moquegua; 123 repos del reto; RED HORIZON (nombre parecido), Glass Orbit (audio + bilingüe) |
 | 2026-11-14 12:36 | Revisión automática: sin repos nuevos de Moquegua ni de rivales directos; 105 repos del reto a nivel mundial; ideas destacables en Gravity-Benders |
