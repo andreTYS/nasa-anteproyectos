@@ -94,6 +94,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 
 | Fecha | Repo | Relación | Notas |
 |---|---|---|---|
+| 2026-11-14 | [ronald005s/pacha-takiy](https://github.com/ronald005s/pacha-takiy) | **Ayni Orbital · Moquegua** · reto *Earth Information Jukebox* | Lluvia de NASA IMERG convertida en sonido, vibración y texto; muy fuerte en accesibilidad (voz guía, control por voz, NVDA/TalkBack, modo sordos con subtítulos). Otro reto: no compite directo con nosotros |
 | 2026-11-14 | [SaidGMP/chacratest](https://github.com/SaidGMP/chacratest) | ChacraTest · Moquegua | Estrés de rotación de cultivos en la sierra de Moquegua con NASA POWER (otro reto, agricultura). Solo README + data.json. Equipo sin identificar |
 | 2026-11-14 | [YYN192/impossible-solution](https://github.com/YYN192/impossible-solution) | Nuestro reto · global (SoftUniors, Sofía) | Base en Marte 3 soles; "cadena de dominó" causa→efecto al final; insignias **EN VIVO / DATO GUARDADO** en datos NASA; modo `?demo=1` reproducible para el video; caminar hasta la consola (WASD); bilingüe. Demo en Pages |
 | 2026-11-14 | [breno-concrete/mars-outpost](https://github.com/breno-concrete/mars-outpost) | Nuestro reto · global | Marte, 4 años marcianos con estaciones reales; asignar trabajos a la tripulación; **minijuego de reparación**; base isométrica en React Three Fiber |
@@ -115,6 +116,7 @@ Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trai
 |---|---|
 | 2026-11-14 | Mapa inicial: 40 equipos, 21 anteproyectos revisados |
 | 2026-11-14 | Primera búsqueda de repos: 2 de Moquegua (Field Shift); ningún rival directo con repo público |
+| 2026-11-14 21:54 | Revisión automática: nuevo repo de Moquegua, Pacha Takiy (Ayni Orbital, reto Jukebox: accesibilidad muy cuidada); rivales directos sin repo; 157 repos del reto |
 | 2026-11-14 21:32 | Revisión a pedido: sin repos nuevos de Moquegua ni de rivales directos (SQubic, Systems & Stars, Nano Suns, Space Boom, ApeLogic siguen sin repo público); 157 repos del reto |
 | 2026-11-14 18:38 | Revisión automática: nuevo repo de Moquegua (ChacraTest, agricultura, no es nuestro reto); rivales directos sin repo público; 142 repos del reto; ideas: dominó causa→efecto, demo reproducible, minijuego de reparación |
 | 2026-11-14 15:38 | Revisión automática: sin rivales nuevos en Moquegua; 123 repos del reto; RED HORIZON (nombre parecido), Glass Orbit (audio + bilingüe) |
