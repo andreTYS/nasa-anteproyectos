@@ -106,7 +106,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | 2026-11-14 | [germanoafb/Base_Mars](https://github.com/germanoafb/Base_Mars) | Nuestro reto · global | Base en Marte, repartir energía con sliders, tormentas solares reales; misma arquitectura que la nuestra (reglas separadas de la pantalla) |
 | 2026-11-14 | [ashwin7587-art/SELENOVIX](https://github.com/ashwin7587-art/SELENOVIX) | Nuestro reto · global | Simulador del polo sur lunar (web + notebook de modelo); README vacío |
 
-**Nuestro reto a nivel mundial:** 142 repos públicos al 14/11 18:38 (123 a las 15:38, 105 a las 12:36, 85 a las 09:00) con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
+**Nuestro reto a nivel mundial:** 157 repos públicos al 14/11 21:32 (142 a las 18:38, 123 a las 15:38, 105 a las 12:36, 85 a las 09:00) con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
 Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trainer), [Little Orbit](https://github.com/Yoriichi-0u0/little-orbit), [ASTROQUEST](https://github.com/divyamd809-ui/ASTROQUEST.), [AstroVR](https://github.com/metinmehdi/AstroVR).
 
 ## Bitácora
@@ -115,6 +115,7 @@ Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trai
 |---|---|
 | 2026-11-14 | Mapa inicial: 40 equipos, 21 anteproyectos revisados |
 | 2026-11-14 | Primera búsqueda de repos: 2 de Moquegua (Field Shift); ningún rival directo con repo público |
+| 2026-11-14 21:32 | Revisión a pedido: sin repos nuevos de Moquegua ni de rivales directos (SQubic, Systems & Stars, Nano Suns, Space Boom, ApeLogic siguen sin repo público); 157 repos del reto |
 | 2026-11-14 18:38 | Revisión automática: nuevo repo de Moquegua (ChacraTest, agricultura, no es nuestro reto); rivales directos sin repo público; 142 repos del reto; ideas: dominó causa→efecto, demo reproducible, minijuego de reparación |
 | 2026-11-14 15:38 | Revisión automática: sin rivales nuevos en Moquegua; 123 repos del reto; RED HORIZON (nombre parecido), Glass Orbit (audio + bilingüe) |
 | 2026-11-14 12:36 | Revisión automática: sin repos nuevos de Moquegua ni de rivales directos; 105 repos del reto a nivel mundial; ideas destacables en Gravity-Benders |
