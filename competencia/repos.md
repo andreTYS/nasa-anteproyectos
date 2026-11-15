@@ -1,6 +1,6 @@
 # Repos de la competencia · NASA Space Apps 2026
 
-Equipo Stellar Experience (Moquegua) · reto **Build a Junior Astronaut Mission Trainer** · actualizado 2026-11-13 (UTC, búsqueda en GitHub de «junior astronaut mission trainer»).
+Equipo Stellar Experience (Moquegua) · reto **Build a Junior Astronaut Mission Trainer** · actualizado 2026-11-15 03:40 (UTC, búsqueda en GitHub de «junior astronaut mission trainer»).
 
 - **Total en GitHub:** 169 repos públicos del reto · **41 con demo publicada**.
 - **Rivales directos de Moquegua** (SQubic, Systems & Stars, Nano Suns, Space Boom, ApeLogic): **sin repo público** hasta ahora.
