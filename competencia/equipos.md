@@ -44,13 +44,13 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | Equipo | Reto | Anteproyecto | Amenaza (general) | Repo | Demo | Video | Notas |
 |---|---|---|:-:|:-:|:-:|:-:|---|
 | 404 Sleep Not Found | Analog Moon/Mars | Marte en Moquegua: índices de similitud con fórmula explícita, validación con controles | 🔴 | | | | Muy riguroso |
-| Agropalto | Field Shift | — | ⚪ | | | | |
+| Agropalto | Field Shift | Agro-palto: cuándo regar la palta y qué riesgo climático viene, con datos satelitales NASA | 🟠 | [repo](https://github.com/Lombardi1482/Agro-palto) | | | Repo publicado el 15/11 |
 | ALFASPACE MOQUEGUA | Field Shift | Deslizamientos por El Niño (no encaja con el reto) | 🟢 | | | | Propuesta vaga |
 | Andes Analog Lab | Analog Moon/Mars | — | ⚪ | | | | |
 | ApeLogic | Health Monitoring | Base lunar por turnos (videojuego) | 🟠 | | | | Ver nota en nuestro reto |
 | AsuNova | Abandoned but not Forgotten | — | ⚪ | | | | |
 | Automatic | Field Shift | App de rotación de cultivos + simulador de sequía + ML | 🟢 | | | | |
-| Ayni Orbital | Earth Information Jukebox | Pacha Takiy: sonificación + háptica, modo para sordoceguera | 🟠 | | | | Fuerte en accesibilidad |
+| Ayni Orbital | Earth Information Jukebox | Pacha Takiy: sonificación + háptica, modo para sordoceguera | 🟠 | [repo](https://github.com/ronald005s/pacha-takiy) | | | Fuerte en accesibilidad; repo muy completo |
 | BIOGAIAX CODE | Field Shift | AGROBIO Intelligence: comparador de 3 escenarios + IoT ESP32 | 🟠 | | | | 6 integrantes |
 | BlueSoft | Martian Map | MARS·BLUESOFT: rutas en Marte con costo físico (energía, sombra, radiación) | 🔴 | | | | Muy sólido técnicamente |
 | CcapoSpace | Abandoned but not Forgotten | Web con fotos HiRISE/LROC y relatos | 🟢 | | | | |
@@ -94,7 +94,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 
 | Fecha | Repo | Relación | Notas |
 |---|---|---|---|
-| 2026-11-15 | [Lombardi1482/Agro-palto](https://github.com/Lombardi1482/Agro-palto) | Agro-palto · Moquegua | Riego y riesgo climático para productores de palta con datos satelitales NASA. Otro reto (agricultura); equipo sin identificar |
+| 2026-11-15 | [Lombardi1482/Agro-palto](https://github.com/Lombardi1482/Agro-palto) | **Agropalto · Moquegua** (Field Shift) | Riego y riesgo climático para productores de palta con datos satelitales NASA. Otro reto (agricultura); equipo sin identificar |
 | 2026-11-15 | [JointOps/mission-vigil](https://github.com/JointOps/mission-vigil) · [demo](https://mission-vigil.vercel.app) | Nuestro reto · global (JointOps, Pakistán) | Marte, 5 soles; el jugador camina con un astronauta por la base y restaura sistemas uno por uno; cada sol añade una demanda nueva |
 | 2026-11-14 | [ronald005s/pacha-takiy](https://github.com/ronald005s/pacha-takiy) | **Ayni Orbital · Moquegua** · reto *Earth Information Jukebox* | Lluvia de NASA IMERG convertida en sonido, vibración y texto; muy fuerte en accesibilidad (voz guía, control por voz, NVDA/TalkBack, modo sordos con subtítulos). Otro reto: no compite directo con nosotros |
 | 2026-11-14 | [SaidGMP/chacratest](https://github.com/SaidGMP/chacratest) | ChacraTest · Moquegua | Estrés de rotación de cultivos en la sierra de Moquegua con NASA POWER (otro reto, agricultura). Solo README + data.json. Equipo sin identificar |
