@@ -56,7 +56,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | CcapoSpace | Abandoned but not Forgotten | Web con fotos HiRISE/LROC y relatos | 🟢 | | | | |
 | Coding Champagne | Martian Map | — | ⚪ | | | | |
 | Genius Mining AI | Lunar Landing Site Navigator | Visor 2D/3D con SPICE + LOLA, luz solar y Earthset | 🔴 | | | | Nominados globales 2024 |
-| Hanaq Pacha TEAM | Field Shift | NDVI desde 2000 en La Yarada, rotaciones según tolerancia a sales/boro | 🔴 | | | | Alcance honesto |
+| Hanaq Pacha TEAM | Field Shift | NDVI desde 2000 en La Yarada, rotaciones según tolerancia a sales/boro | 🔴 | [repo](https://github.com/edwardb1/NASA_challenge_Hanaq_pacha) | | | Alcance honesto · repo creado 14/11, al 15/11 solo tiene un README de una línea |
 | JCosmos | Space Mission Design Game | Orbit Deck: juego de cartas con instrumentos y cohetes reales | 🟠 | | | | Otro reto, no rival directo |
 | Junior FC | MODIS/VIIRS Hot Spots | Serie unificada de focos de calor + web con calendario | 🟠 | | | | |
 | Kuntur Labs | Trend Detective | WasteGuard AI: metano/calor en botaderos OEFA | 🟠 | | | | |
@@ -81,6 +81,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | Systems & Stars | Junior Astronaut Mission Trainer | Roblox, viaje de astronauta | 🟢 | | | | **Rival directo** |
 | TECH-UNJBG | Flame in Freefall | — | ⚪ | | | | |
 | TERRASYNC CODE | Field Shift | — | ⚪ | | | | |
+| TROYA (UNAM) | Trend Detective | Pulso del Agua: lluvia y calor por zona para agricultores, íconos grandes, voz, 4 idiomas (castellano, inglés, quechua, aimara) | 🔴 | [repo](https://github.com/sbx-cmyk/pulso-del-agua) | | | No estaba en la lista de 40. Muy cuidado (página técnica para jueces, declaración de uso de IA) |
 | The Innovators YF | Trend Detective | Detectives de datos: series de tiempo + Mann-Kendall | 🟢 | | | | 2 integrantes |
 | WISe | Abandoned but not Forgotten | Roblox: objetos que dejó la NASA, ingeniería inversa | 🟠 | | | | |
 
@@ -94,6 +95,10 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 
 | Fecha | Repo | Relación | Notas |
 |---|---|---|---|
+| 2026-11-15 | [sbx-cmyk/pulso-del-agua](https://github.com/sbx-cmyk/pulso-del-agua) | **TROYA (UNAM) · Moquegua** · Trend Detective | Lluvia y calor para agricultores con NASA POWER + GPM IMERG; voz y 4 idiomas, incluidos quechua y aimara; página técnica para revisores. Rival fuerte en la premiación local (otro reto) |
+| 2026-11-14 | [edwardb1/NASA_challenge_Hanaq_pacha](https://github.com/edwardb1/NASA_challenge_Hanaq_pacha) | **Hanaq Pacha · Moquegua** · Field Shift | Repo casi vacío al 15/11 (README de una línea) |
+| 2026-11-14 | [redigb/xlr-muyuy](https://github.com/redigb/xlr-muyuy) | Field Shift · piloto en **Huánuco** | Probablemente no es Muyuy Innova de Moquegua (su piloto es Huánuco). API desplegada, paquete offline de ~2 KB |
+| 2026-11-14 | [JokabelRojas/yachaska](https://github.com/JokabelRojas/yachaska) | Abandoned but not Forgotten · **Ayacucho** | Historia interactiva para niños de 8–14 años, quechua y aimara (borradores con IA). No es de Moquegua |
 | 2026-11-15 | [Lombardi1482/Agro-palto](https://github.com/Lombardi1482/Agro-palto) | **Agropalto · Moquegua** (Field Shift) | Riego y riesgo climático para productores de palta con datos satelitales NASA. Otro reto (agricultura); equipo sin identificar |
 | 2026-11-15 | [JointOps/mission-vigil](https://github.com/JointOps/mission-vigil) · [demo](https://mission-vigil.vercel.app) | Nuestro reto · global (JointOps, Pakistán) | Marte, 5 soles; el jugador camina con un astronauta por la base y restaura sistemas uno por uno; cada sol añade una demanda nueva |
 | 2026-11-14 | [ronald005s/pacha-takiy](https://github.com/ronald005s/pacha-takiy) | **Ayni Orbital · Moquegua** · reto *Earth Information Jukebox* | Lluvia de NASA IMERG convertida en sonido, vibración y texto; muy fuerte en accesibilidad (voz guía, control por voz, NVDA/TalkBack, modo sordos con subtítulos). Otro reto: no compite directo con nosotros |
@@ -102,7 +107,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | 2026-11-14 | [breno-concrete/mars-outpost](https://github.com/breno-concrete/mars-outpost) | Nuestro reto · global | Marte, 4 años marcianos con estaciones reales; asignar trabajos a la tripulación; **minijuego de reparación**; base isométrica en React Three Fiber |
 | 2026-11-14 | [Amal-Thomas-cmd/Astrion](https://github.com/Amal-Thomas-cmd/Astrion) | Nuestro reto · global | Hecho en Minecraft Java: 14 misiones lunares encadenadas |
 | 2026-11-14 | [ferrosasfp/field-shift](https://github.com/ferrosasfp/field-shift) | Field Shift · Moquegua | NASA POWER + rotación de cultivos + seguro paramétrico. Creado el 12/11, antes de la hackatón. Equipo sin identificar |
-| 2026-11-14 | [chris-nofi/nofi-space](https://github.com/chris-nofi/nofi-space) | "Agua Clara Moquegua" (ECOSTRESS) | No coincide con ningún equipo de la lista de 40. Revisar |
+| 2026-11-14 | [chris-nofi/nofi-space](https://github.com/chris-nofi/nofi-space) | **NOFI Labs · Moquegua** · Field Shift | Ahora "CERES Ventures": consejos de agua por voz/chat con ECOSTRESS, Monte Carlo, blockchain (Avalanche) y pagos x402. Muy ambicioso; no está en la lista de 40 |
 | 2026-11-14 | [ErastusArthur/Gravity-Benders](https://github.com/ErastusArthur/Gravity-Benders) | Nuestro reto · global | Mapa donde envías rover/tripulación a explorar, vista interior de la base, modo Cadete vs. Especialista (unidades reales), tormenta que afecta a quien está afuera |
 | 2026-11-14 | [gauravpanchtilak16/RED-HORIZON](https://github.com/gauravpanchtilak16/RED-HORIZON) | Nuestro reto · global | ⚠️ Nombre parecido a HORIZONTE. Supervivencia científica; README con plantilla de jueces aún sin llenar |
 | 2026-11-14 | [brian53013new/glass-orbit](https://github.com/brian53013new/glass-orbit) | Nuestro reto · global | 3D (React Three Fiber), cartas con habilidades, 6 eventos reales DONKI (CME), bilingüe, audio ambiente propio, accesibilidad (reduced motion) |
@@ -116,6 +121,7 @@ Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trai
 
 | Fecha | Cambio |
 |---|---|
+| 2026-11-15 08:40 | Revisión a pedido: nuevos de Moquegua: Pulso del Agua (TROYA, Trend Detective, fuerte), repo de Hanaq Pacha (vacío); NOFI identificado (Field Shift). Rivales directos (SQubic, Systems & Stars, Nano Suns, Space Boom, ApeLogic) siguen sin repo público |
 | 2026-11-14 | Mapa inicial: 40 equipos, 21 anteproyectos revisados |
 | 2026-11-14 | Primera búsqueda de repos: 2 de Moquegua (Field Shift); ningún rival directo con repo público |
 | 2026-11-15 06:38 | Revisión automática: sin repos nuevos de Moquegua ni de rivales directos; 175 repos del reto |
