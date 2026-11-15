@@ -114,13 +114,14 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | 2026-11-14 | [germanoafb/Base_Mars](https://github.com/germanoafb/Base_Mars) | Nuestro reto · global | Base en Marte, repartir energía con sliders, tormentas solares reales; misma arquitectura que la nuestra (reglas separadas de la pantalla) |
 | 2026-11-14 | [ashwin7587-art/SELENOVIX](https://github.com/ashwin7587-art/SELENOVIX) | Nuestro reto · global | Simulador del polo sur lunar (web + notebook de modelo); README vacío |
 
-**Nuestro reto a nivel mundial:** 228 repos públicos al 15/11 15:38 (205 a las 12:38, 187 a las 09:54, 175 a las 06:38, 169 a las 02:35, 157 a las 21:32 del 14/11, 142 a las 18:38, 123 a las 15:38, 105 a las 12:36, 85 a las 09:00) con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
+**Nuestro reto a nivel mundial:** 247 repos públicos al 15/11 18:38 (228 a las 15:38, 205 a las 12:38, 187 a las 09:54, 175 a las 06:38, 169 a las 02:35, 157 a las 21:32 del 14/11, 142 a las 18:38, 123 a las 15:38, 105 a las 12:36, 85 a las 09:00) con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
 Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trainer), [Little Orbit](https://github.com/Yoriichi-0u0/little-orbit), [ASTROQUEST](https://github.com/divyamd809-ui/ASTROQUEST.), [AstroVR](https://github.com/metinmehdi/AstroVR).
 
 ## Bitácora
 
 | Fecha | Cambio |
 |---|---|
+| 2026-11-15 18:38 | Revisión automática: sin repos nuevos de Moquegua; ChacraTest y NOFI siguen actualizando; rivales directos sin repo; 247 repos del reto |
 | 2026-11-15 15:38 | Revisión automática: sin repos nuevos de Moquegua; rivales directos sin repo; 228 repos del reto |
 | 2026-11-15 12:38 | Revisión automática: sin repos nuevos de Moquegua; Pulso del Agua (TROYA) sigue activo (push 12:34); rivales directos sin repo; 205 repos del reto |
 | 2026-11-15 09:54 | Revisión automática: sin repos nuevos de Moquegua ni de rivales directos; 187 repos del reto (eran 175 a las 06:38) |
