@@ -68,7 +68,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | NEPTUNI II | Health Monitoring | Pulso por cámara (rPPG) + WHO-5/PHQ-4/DASS-21 | 🟠 | | | | |
 | N.I.N.O. | Martian Map | — | ⚪ | | | | |
 | Orbita Creativa | Abandoned but not Forgotten | — | ⚪ | | | | |
-| PACHA SCAN | Dancing with the SARs | — | ⚪ | | | | |
+| PACHA SCAN | Dancing with the SARs | — | 🟢 | [repo](https://github.com/susycodes77/PachaScan) | | | Repo creado 14/11; al 15/11 20:00 solo tiene el título |
 | RIYAY | Field Shift | — | ⚪ | | | | |
 | Santa Ana | Field Shift | Web offline con NASA POWER para rotaciones | 🟢 | | | | |
 | Space Boom | Junior Astronaut Mission Trainer | — | ⚪ | | | | **Rival directo** |
@@ -81,7 +81,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | Systems & Stars | Junior Astronaut Mission Trainer | Roblox, viaje de astronauta | 🟢 | | | | **Rival directo** |
 | TECH-UNJBG | Flame in Freefall | — | ⚪ | | | | |
 | TERRASYNC CODE | Field Shift | — | ⚪ | | | | |
-| TROYA (UNAM) | Trend Detective | Pulso del Agua: lluvia y calor por zona para agricultores, íconos grandes, voz, 4 idiomas (castellano, inglés, quechua, aimara) | 🔴 | [repo](https://github.com/sbx-cmyk/pulso-del-agua) | | | No estaba en la lista de 40. Muy cuidado (página técnica para jueces, declaración de uso de IA) |
+| TROYA (UNAM) | Trend Detective | Yachachiq (antes Pulso del Agua): lluvia y calor por zona para agricultores, íconos grandes, voz, 4 idiomas (castellano, inglés, quechua, aimara) | 🔴 | [repo](https://github.com/sbx-cmyk/pulso-del-agua) | | | No estaba en la lista de 40. Muy cuidado (página técnica para jueces, declaración de uso de IA) |
 | The Innovators YF | Trend Detective | Detectives de datos: series de tiempo + Mann-Kendall | 🟢 | | | | 2 integrantes |
 | WISe | Abandoned but not Forgotten | Roblox: objetos que dejó la NASA, ingeniería inversa | 🟠 | | | | |
 
@@ -95,6 +95,9 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 
 | Fecha | Repo | Relación | Notas |
 |---|---|---|---|
+| 2026-11-15 | [susycodes77/PachaScan](https://github.com/susycodes77/PachaScan) | **PACHA SCAN · Moquegua** · Dancing with the SARs | Repo vacío (solo título) al 15/11 20:00 |
+| 2026-11-15 | [sbx-cmyk/pulso-del-agua](https://github.com/sbx-cmyk/pulso-del-agua) | **TROYA · Moquegua** (actualización) | Ahora se llama **Yachachiq** («el que sabe y enseña» en quechua). Datos NASA POWER e IMERG que se actualizan solos cada día (GitHub Actions + token Earthdata), ONI de NOAA, 4 idiomas, voces, video con IA declarado |
+| 2026-11-15 | [SaidGMP/chacratest](https://github.com/SaidGMP/chacratest) · [demo](https://saidgmp.github.io/chacratest/) | **ChacraTest · Moquegua** (actualización) | Demo publicada; Carumas, 35 campañas 1991–2025 con NASA POWER; explica sus límites con honestidad |
 | 2026-11-15 | [sbx-cmyk/pulso-del-agua](https://github.com/sbx-cmyk/pulso-del-agua) | **TROYA (UNAM) · Moquegua** · Trend Detective | Lluvia y calor para agricultores con NASA POWER + GPM IMERG; voz y 4 idiomas, incluidos quechua y aimara; página técnica para revisores. Rival fuerte en la premiación local (otro reto) |
 | 2026-11-14 | [edwardb1/NASA_challenge_Hanaq_pacha](https://github.com/edwardb1/NASA_challenge_Hanaq_pacha) | **Hanaq Pacha · Moquegua** · Field Shift | Repo casi vacío al 15/11 (README de una línea) |
 | 2026-11-14 | [redigb/xlr-muyuy](https://github.com/redigb/xlr-muyuy) | Field Shift · piloto en **Huánuco** | Probablemente no es Muyuy Innova de Moquegua (su piloto es Huánuco). API desplegada, paquete offline de ~2 KB |
@@ -121,6 +124,7 @@ Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trai
 
 | Fecha | Cambio |
 |---|---|
+| 2026-11-15 21:30 | Estudio a pedido: PachaScan (vacío), TROYA renombrado Yachachiq con datos que se actualizan solos, ChacraTest con demo; rivales directos de nuestro reto siguen sin repo. La página del evento no abre desde el servidor (certificado) |
 | 2026-11-15 18:38 | Revisión automática: sin repos nuevos de Moquegua; ChacraTest y NOFI siguen actualizando; rivales directos sin repo; 247 repos del reto |
 | 2026-11-15 15:38 | Revisión automática: sin repos nuevos de Moquegua; rivales directos sin repo; 228 repos del reto |
 | 2026-11-15 12:38 | Revisión automática: sin repos nuevos de Moquegua; Pulso del Agua (TROYA) sigue activo (push 12:34); rivales directos sin repo; 205 repos del reto |
