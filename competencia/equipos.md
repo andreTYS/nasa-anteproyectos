@@ -94,6 +94,8 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 
 | Fecha | Repo | Relación | Notas |
 |---|---|---|---|
+| 2026-11-15 | [Lombardi1482/Agro-palto](https://github.com/Lombardi1482/Agro-palto) | Agro-palto · Moquegua | Riego y riesgo climático para productores de palta con datos satelitales NASA. Otro reto (agricultura); equipo sin identificar |
+| 2026-11-15 | [JointOps/mission-vigil](https://github.com/JointOps/mission-vigil) · [demo](https://mission-vigil.vercel.app) | Nuestro reto · global (JointOps, Pakistán) | Marte, 5 soles; el jugador camina con un astronauta por la base y restaura sistemas uno por uno; cada sol añade una demanda nueva |
 | 2026-11-14 | [ronald005s/pacha-takiy](https://github.com/ronald005s/pacha-takiy) | **Ayni Orbital · Moquegua** · reto *Earth Information Jukebox* | Lluvia de NASA IMERG convertida en sonido, vibración y texto; muy fuerte en accesibilidad (voz guía, control por voz, NVDA/TalkBack, modo sordos con subtítulos). Otro reto: no compite directo con nosotros |
 | 2026-11-14 | [SaidGMP/chacratest](https://github.com/SaidGMP/chacratest) | ChacraTest · Moquegua | Estrés de rotación de cultivos en la sierra de Moquegua con NASA POWER (otro reto, agricultura). Solo README + data.json. Equipo sin identificar |
 | 2026-11-14 | [YYN192/impossible-solution](https://github.com/YYN192/impossible-solution) | Nuestro reto · global (SoftUniors, Sofía) | Base en Marte 3 soles; "cadena de dominó" causa→efecto al final; insignias **EN VIVO / DATO GUARDADO** en datos NASA; modo `?demo=1` reproducible para el video; caminar hasta la consola (WASD); bilingüe. Demo en Pages |
@@ -107,7 +109,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | 2026-11-14 | [germanoafb/Base_Mars](https://github.com/germanoafb/Base_Mars) | Nuestro reto · global | Base en Marte, repartir energía con sliders, tormentas solares reales; misma arquitectura que la nuestra (reglas separadas de la pantalla) |
 | 2026-11-14 | [ashwin7587-art/SELENOVIX](https://github.com/ashwin7587-art/SELENOVIX) | Nuestro reto · global | Simulador del polo sur lunar (web + notebook de modelo); README vacío |
 
-**Nuestro reto a nivel mundial:** 157 repos públicos al 14/11 21:32 (142 a las 18:38, 123 a las 15:38, 105 a las 12:36, 85 a las 09:00) con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
+**Nuestro reto a nivel mundial:** 169 repos públicos al 15/11 02:35 (157 a las 21:32 del 14/11, 142 a las 18:38, 123 a las 15:38, 105 a las 12:36, 85 a las 09:00) con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
 Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trainer), [Little Orbit](https://github.com/Yoriichi-0u0/little-orbit), [ASTROQUEST](https://github.com/divyamd809-ui/ASTROQUEST.), [AstroVR](https://github.com/metinmehdi/AstroVR).
 
 ## Bitácora
@@ -116,6 +118,7 @@ Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trai
 |---|---|
 | 2026-11-14 | Mapa inicial: 40 equipos, 21 anteproyectos revisados |
 | 2026-11-14 | Primera búsqueda de repos: 2 de Moquegua (Field Shift); ningún rival directo con repo público |
+| 2026-11-15 02:35 | Revisión automática: nuevo repo de Moquegua, Agro-palto (agricultura, otro reto); rivales directos siguen sin repo; 169 repos del reto; Mission Vigil (caminar por la base) |
 | 2026-11-14 21:54 | Revisión automática: nuevo repo de Moquegua, Pacha Takiy (Ayni Orbital, reto Jukebox: accesibilidad muy cuidada); rivales directos sin repo; 157 repos del reto |
 | 2026-11-14 21:32 | Revisión a pedido: sin repos nuevos de Moquegua ni de rivales directos (SQubic, Systems & Stars, Nano Suns, Space Boom, ApeLogic siguen sin repo público); 157 repos del reto |
 | 2026-11-14 18:38 | Revisión automática: nuevo repo de Moquegua (ChacraTest, agricultura, no es nuestro reto); rivales directos sin repo público; 142 repos del reto; ideas: dominó causa→efecto, demo reproducible, minijuego de reparación |
