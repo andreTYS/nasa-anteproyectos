@@ -95,6 +95,9 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 
 | Fecha | Repo | Relación | Notas |
 |---|---|---|---|
+| 2026-11-15 | [patente012026/muyuy](https://github.com/patente012026/muyuy) · [app](https://muyuy-innova.onrender.com) | **Muyuy Innova · Moquegua** · Field Shift | Muyuy V1.0: rotaciones de cultivo con 45 años de NASA POWER corregido por altura; 3 opciones con robustez («funciona 6 de 10 años»), suelo, riesgos; offline; español, inglés y quechua. App desplegada. Rival fuerte en la premiación local |
+| 2026-11-16 | [AstroWillyxd/NEPTUNI](https://github.com/AstroWillyxd/NEPTUNI) | **NEPTUNI (¿NEPTUNI II?) · Moquegua** · *Abandoned but not Forgotten* | Museo interactivo de arqueología espacial para niños de 10–14: 15 misiones de la Luna y Marte, visor 3D de naves, guía Neptunito, juego de conducir Sojourner, ES/EN. **El más parecido a nosotros en público y tema** (otro reto). Cambió de idea: antes era rPPG / salud |
+| 2026-11-15 | [Jjulianperez/Mision-Space-Nasa-App](https://github.com/Jjulianperez/Mision-Space-Nasa-App) | Pacha Team · sede sin confirmar | OrbitaLab: juego cooperativo para diseñar y simular una misión espacial (principiante/intermedio). Al 15/11 23:49 es solo el esqueleto (archivos vacíos) |
 | 2026-11-15 | [David-exxe/pachascan-moquegua-sar](https://github.com/David-exxe/pachascan-moquegua-sar) | **PACHA SCAN · Moquegua** · Dancing with the SARs | Plataforma web de alerta de incendios con radar SAR y registros locales (COER Moquegua, INDECI); identidad andina, comparador antes/después, alarma sonora |
 | 2026-11-15 | [susycodes77/PachaScan](https://github.com/susycodes77/PachaScan) | **PACHA SCAN · Moquegua** · Dancing with the SARs | Repo vacío (solo título) al 15/11 20:00 |
 | 2026-11-15 | [sbx-cmyk/pulso-del-agua](https://github.com/sbx-cmyk/pulso-del-agua) | **TROYA · Moquegua** (actualización) | Ahora se llama **Yachachiq** («el que sabe y enseña» en quechua). Datos NASA POWER e IMERG que se actualizan solos cada día (GitHub Actions + token Earthdata), ONI de NOAA, 4 idiomas, voces, video con IA declarado |
@@ -125,6 +128,7 @@ Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trai
 
 | Fecha | Cambio |
 |---|---|
+| 2026-11-16 02:45 | Revisión a pedido: nuevos repos de Moquegua: Muyuy Innova (app desplegada, fuerte) y NEPTUNI (museo espacial para niños, el más parecido a nosotros). Actualizados hoy: ChacraTest (00:23), PACHA SCAN (23:29), NOFI (22:03), Yachachiq (19:45). Sin repo público: EcoGuide, ApeLogic, Hanaq Pacha casi vacío |
 | 2026-11-16 00:38 | Revisión automática: PACHA SCAN publicó su repo real (SAR + incendios en Moquegua); ChacraTest y NOFI siguen actualizando; rivales directos de nuestro reto sin repo; 263 repos del reto |
 | 2026-11-15 21:30 | Estudio a pedido: PachaScan (vacío), TROYA renombrado Yachachiq con datos que se actualizan solos, ChacraTest con demo; rivales directos de nuestro reto siguen sin repo. La página del evento no abre desde el servidor (certificado) |
 | 2026-11-15 18:38 | Revisión automática: sin repos nuevos de Moquegua; ChacraTest y NOFI siguen actualizando; rivales directos sin repo; 247 repos del reto |
