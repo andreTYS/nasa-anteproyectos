@@ -95,6 +95,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 
 | Fecha | Repo | Relación | Notas |
 |---|---|---|---|
+| 2026-11-16 | [AndresVZ23/los-causas-espaciales](https://github.com/AndresVZ23/los-causas-espaciales) | **Los Causas Espaciales · Moquegua** · Trend Detective | TERRA 2045: juego web 3D, viaje de 2045 a 2026 para leer tendencias NASA de la Tierra (desde 2001) en 57 lugares, contrastarlas con otra fuente y avisar a pueblos. Repo creado a las 23:04 de Moquegua (antes del cierre). Se instala en Windows con un .bat, no tiene demo web |
 | 2026-11-15 | [patente012026/muyuy](https://github.com/patente012026/muyuy) · [app](https://muyuy-innova.onrender.com) | **Muyuy Innova · Moquegua** · Field Shift | Muyuy V1.0: rotaciones de cultivo con 45 años de NASA POWER corregido por altura; 3 opciones con robustez («funciona 6 de 10 años»), suelo, riesgos; offline; español, inglés y quechua. App desplegada. Rival fuerte en la premiación local |
 | 2026-11-16 | [AstroWillyxd/NEPTUNI](https://github.com/AstroWillyxd/NEPTUNI) | **NEPTUNI (¿NEPTUNI II?) · Moquegua** · *Abandoned but not Forgotten* | Museo interactivo de arqueología espacial para niños de 10–14: 15 misiones de la Luna y Marte, visor 3D de naves, guía Neptunito, juego de conducir Sojourner, ES/EN. **El más parecido a nosotros en público y tema** (otro reto). Cambió de idea: antes era rPPG / salud |
 | 2026-11-15 | [Jjulianperez/Mision-Space-Nasa-App](https://github.com/Jjulianperez/Mision-Space-Nasa-App) | Pacha Team · sede sin confirmar | OrbitaLab: juego cooperativo para diseñar y simular una misión espacial (principiante/intermedio). Al 15/11 23:49 es solo el esqueleto (archivos vacíos) |
@@ -128,6 +129,7 @@ Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trai
 
 | Fecha | Cambio |
 |---|---|
+| 2026-11-16 06:38 | Revisión automática tras el cierre: nuevo repo de Moquegua, Los Causas Espaciales (TERRA 2045, juego 3D de tendencias terrestres, otro reto). Rivales directos siguen sin repo. **La hackatón cerró; esta revisión ya no aporta** |
 | 2026-11-16 03:38 | Revisión automática: sin repos nuevos ni cambios de Moquegua desde las 02:45; rivales directos (SQubic, Systems & Stars, Nano Suns, Space Boom, ApeLogic) siguen sin repo; en el reto global siguen llegando entregas de última hora (BOLT, ChullaSolution de Riobamba, Roblox, UNIverse One) |
 | 2026-11-16 02:45 | Revisión a pedido: nuevos repos de Moquegua: Muyuy Innova (app desplegada, fuerte) y NEPTUNI (museo espacial para niños, el más parecido a nosotros). Actualizados hoy: ChacraTest (00:23), PACHA SCAN (23:29), NOFI (22:03), Yachachiq (19:45). Sin repo público: EcoGuide, ApeLogic, Hanaq Pacha casi vacío |
 | 2026-11-16 00:38 | Revisión automática: PACHA SCAN publicó su repo real (SAR + incendios en Moquegua); ChacraTest y NOFI siguen actualizando; rivales directos de nuestro reto sin repo; 263 repos del reto |
