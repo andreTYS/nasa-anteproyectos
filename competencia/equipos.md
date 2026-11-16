@@ -68,7 +68,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | NEPTUNI II | Health Monitoring | Pulso por cámara (rPPG) + WHO-5/PHQ-4/DASS-21 | 🟠 | | | | |
 | N.I.N.O. | Martian Map | — | ⚪ | | | | |
 | Orbita Creativa | Abandoned but not Forgotten | — | ⚪ | | | | |
-| PACHA SCAN | Dancing with the SARs | — | 🟢 | [repo](https://github.com/susycodes77/PachaScan) | | | Repo creado 14/11; al 15/11 20:00 solo tiene el título |
+| PACHA SCAN | Dancing with the SARs | Radar SAR (Sentinel-1) + registros COER/INDECI para incendios en Moquegua | 🟠 | [repo](https://github.com/David-exxe/pachascan-moquegua-sar) | | | Repo nuevo con contenido (15/11 23:29): marca andina, comparador antes/después, alerta sonora. Ojo: usa Sentinel-1 (ESA) aunque lo describe como NASA Earthdata |
 | RIYAY | Field Shift | — | ⚪ | | | | |
 | Santa Ana | Field Shift | Web offline con NASA POWER para rotaciones | 🟢 | | | | |
 | Space Boom | Junior Astronaut Mission Trainer | — | ⚪ | | | | **Rival directo** |
@@ -95,6 +95,7 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 
 | Fecha | Repo | Relación | Notas |
 |---|---|---|---|
+| 2026-11-15 | [David-exxe/pachascan-moquegua-sar](https://github.com/David-exxe/pachascan-moquegua-sar) | **PACHA SCAN · Moquegua** · Dancing with the SARs | Plataforma web de alerta de incendios con radar SAR y registros locales (COER Moquegua, INDECI); identidad andina, comparador antes/después, alarma sonora |
 | 2026-11-15 | [susycodes77/PachaScan](https://github.com/susycodes77/PachaScan) | **PACHA SCAN · Moquegua** · Dancing with the SARs | Repo vacío (solo título) al 15/11 20:00 |
 | 2026-11-15 | [sbx-cmyk/pulso-del-agua](https://github.com/sbx-cmyk/pulso-del-agua) | **TROYA · Moquegua** (actualización) | Ahora se llama **Yachachiq** («el que sabe y enseña» en quechua). Datos NASA POWER e IMERG que se actualizan solos cada día (GitHub Actions + token Earthdata), ONI de NOAA, 4 idiomas, voces, video con IA declarado |
 | 2026-11-15 | [SaidGMP/chacratest](https://github.com/SaidGMP/chacratest) · [demo](https://saidgmp.github.io/chacratest/) | **ChacraTest · Moquegua** (actualización) | Demo publicada; Carumas, 35 campañas 1991–2025 con NASA POWER; explica sus límites con honestidad |
@@ -117,13 +118,14 @@ Fuentes: pestaña *Teams* del [evento Moquegua](https://www.spaceappschallenge.o
 | 2026-11-14 | [germanoafb/Base_Mars](https://github.com/germanoafb/Base_Mars) | Nuestro reto · global | Base en Marte, repartir energía con sliders, tormentas solares reales; misma arquitectura que la nuestra (reglas separadas de la pantalla) |
 | 2026-11-14 | [ashwin7587-art/SELENOVIX](https://github.com/ashwin7587-art/SELENOVIX) | Nuestro reto · global | Simulador del polo sur lunar (web + notebook de modelo); README vacío |
 
-**Nuestro reto a nivel mundial:** 247 repos públicos al 15/11 18:38 (228 a las 15:38, 205 a las 12:38, 187 a las 09:54, 175 a las 06:38, 169 a las 02:35, 157 a las 21:32 del 14/11, 142 a las 18:38, 123 a las 15:38, 105 a las 12:36, 85 a las 09:00) con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
+**Nuestro reto a nivel mundial:** 263 repos públicos al 16/11 00:38 (228 a las 15:38, 205 a las 12:38, 187 a las 09:54, 175 a las 06:38, 169 a las 02:35, 157 a las 21:32 del 14/11, 142 a las 18:38, 123 a las 15:38, 105 a las 12:36, 85 a las 09:00) con "junior astronaut mission trainer" al 14/11 09:00. Ninguno es de Moquegua todavía.
 Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trainer), [Little Orbit](https://github.com/Yoriichi-0u0/little-orbit), [ASTROQUEST](https://github.com/divyamd809-ui/ASTROQUEST.), [AstroVR](https://github.com/metinmehdi/AstroVR).
 
 ## Bitácora
 
 | Fecha | Cambio |
 |---|---|
+| 2026-11-16 00:38 | Revisión automática: PACHA SCAN publicó su repo real (SAR + incendios en Moquegua); ChacraTest y NOFI siguen actualizando; rivales directos de nuestro reto sin repo; 263 repos del reto |
 | 2026-11-15 21:30 | Estudio a pedido: PachaScan (vacío), TROYA renombrado Yachachiq con datos que se actualizan solos, ChacraTest con demo; rivales directos de nuestro reto siguen sin repo. La página del evento no abre desde el servidor (certificado) |
 | 2026-11-15 18:38 | Revisión automática: sin repos nuevos de Moquegua; ChacraTest y NOFI siguen actualizando; rivales directos sin repo; 247 repos del reto |
 | 2026-11-15 15:38 | Revisión automática: sin repos nuevos de Moquegua; rivales directos sin repo; 228 repos del reto |
