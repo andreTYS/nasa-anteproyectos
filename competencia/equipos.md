@@ -128,6 +128,7 @@ Referencias globales: [ASTRA](https://github.com/HamzaAli0911/astra-mission-trai
 
 | Fecha | Cambio |
 |---|---|
+| 2026-11-16 03:38 | Revisión automática: sin repos nuevos ni cambios de Moquegua desde las 02:45; rivales directos (SQubic, Systems & Stars, Nano Suns, Space Boom, ApeLogic) siguen sin repo; en el reto global siguen llegando entregas de última hora (BOLT, ChullaSolution de Riobamba, Roblox, UNIverse One) |
 | 2026-11-16 02:45 | Revisión a pedido: nuevos repos de Moquegua: Muyuy Innova (app desplegada, fuerte) y NEPTUNI (museo espacial para niños, el más parecido a nosotros). Actualizados hoy: ChacraTest (00:23), PACHA SCAN (23:29), NOFI (22:03), Yachachiq (19:45). Sin repo público: EcoGuide, ApeLogic, Hanaq Pacha casi vacío |
 | 2026-11-16 00:38 | Revisión automática: PACHA SCAN publicó su repo real (SAR + incendios en Moquegua); ChacraTest y NOFI siguen actualizando; rivales directos de nuestro reto sin repo; 263 repos del reto |
 | 2026-11-15 21:30 | Estudio a pedido: PachaScan (vacío), TROYA renombrado Yachachiq con datos que se actualizan solos, ChacraTest con demo; rivales directos de nuestro reto siguen sin repo. La página del evento no abre desde el servidor (certificado) |
